@@ -1,6 +1,6 @@
 API demo project
 =================
-[![Java CI](https://github.com/dnylpz/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)](https://github.com/NelyHeJa01/apiDemo/actions/workflows/apiDemo-build.yaml)
+[![Java CI](https://github.com/NelyHeJa01/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)](https://github.com/NelyHeJa01/apiDemo/actions/workflows/apiDemo-build.yaml)
 
 a demo project to be used to exemplify 
 the CI/CD process and other technologies 
